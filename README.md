@@ -1,16 +1,5 @@
-# flutter_sport_app_1
+Calisno - Your Personal Calisthenics Companion
 
-A new Flutter project.
+Calisno - Your Personal Calisthenics Companion Calisno is a Flutter-based mobile app designed for calisthenics enthusiasts. Whether you're a beginner or a seasoned athlete, Calisno provides the tools you need to stay on track and reach your fitness goals.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features: Body Metrics Calculation: Easily calculate your BMI, body fat percentage, and other essential body factors to track your progress. Exercise Videos: Access a library of high-quality calisthenics exercise videos to help guide your workouts. AI-Powered Chat: Chat with an intelligent AI to get workout suggestions, fitness tips, and personalized guidance. User-Friendly Interface: Designed with simplicity and functionality in mind, making it easy to navigate through all features. Stay fit, stay healthy, and enjoy calisthenics with Calisno!
